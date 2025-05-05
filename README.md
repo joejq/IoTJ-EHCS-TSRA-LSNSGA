@@ -1,5 +1,5 @@
 # IoTJ-EHCS-TSRA-LSNSGA
-Energy-Efficient Task SchedulingandResource Allocation in Edge Heterogeneous Computing Systems Using Multi-Objective Optimization
+Energy-Efficient Task Scheduling and Resource Allocation in Edge Heterogeneous Computing Systems Using Multi-Objective Optimization
 
 Key words: Edge heterogeneous computing system, task scheduling and resource allocation, local search enhanced NSGA-II
 
