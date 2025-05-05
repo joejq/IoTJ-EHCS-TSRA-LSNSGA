@@ -3,6 +3,6 @@ Edge heterogeneous computing system, task scheduling and resource allocation, lo
 
 Algorithm and problem model source code
 - model: Task scheudling and resource allocation
-- lsnsga: LSNSGA (proposed)
+- algorithm: LSNSGA (proposed)
 
 Running file: lsnsga/main.cpp
