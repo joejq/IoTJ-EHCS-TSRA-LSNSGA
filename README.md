@@ -2,7 +2,7 @@
 Edge heterogeneous computing system, task scheduling and resource allocation, local search enhanced NSGA-II
 
 Algorithm and problem model source code
-- model: Task scheudling and resource allocation
-- algorithm: LSNSGA (proposed)
+- model: Task scheduling and resource allocation
+- algorithm: LS-NSGA (proposed)
 
 Running file: lsnsga/main.cpp
